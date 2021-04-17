@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/good-books/static/css/main.9e2e3f49.chunk.css",
+    "main.js": "/good-books/static/js/main.b92198d2.chunk.js",
+    "main.js.map": "/good-books/static/js/main.b92198d2.chunk.js.map",
+    "runtime-main.js": "/good-books/static/js/runtime-main.05f61bd0.js",
+    "runtime-main.js.map": "/good-books/static/js/runtime-main.05f61bd0.js.map",
+    "static/js/2.2e9472f3.chunk.js": "/good-books/static/js/2.2e9472f3.chunk.js",
+    "static/js/2.2e9472f3.chunk.js.map": "/good-books/static/js/2.2e9472f3.chunk.js.map",
+    "static/js/3.b308f128.chunk.js": "/good-books/static/js/3.b308f128.chunk.js",
+    "static/js/3.b308f128.chunk.js.map": "/good-books/static/js/3.b308f128.chunk.js.map",
+    "index.html": "/good-books/index.html",
+    "static/css/main.9e2e3f49.chunk.css.map": "/good-books/static/css/main.9e2e3f49.chunk.css.map",
+    "static/js/2.2e9472f3.chunk.js.LICENSE.txt": "/good-books/static/js/2.2e9472f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f61bd0.js",
+    "static/js/2.2e9472f3.chunk.js",
+    "static/css/main.9e2e3f49.chunk.css",
+    "static/js/main.b92198d2.chunk.js"
+  ]
+}
